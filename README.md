@@ -1,3 +1,3 @@
 # test
 git test repository
-## gut test
+## git test로 변경됨
